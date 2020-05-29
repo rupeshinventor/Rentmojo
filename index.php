@@ -17,10 +17,10 @@
 				<div class="col-sm-3">
 				</div>
 				<div class="col-sm-6 text-center">
-					<h1 class="title">Address Book</h1>
+					<h1 class="title">Phonebook</h1>
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h1 class="panel-title">Welcome To Address Book</h1>
+							<h1 class="panel-title">Welcome To Phonebook</h1>
 						</div>
 						<div class="panel-body">
 							<div class="conatiner">
